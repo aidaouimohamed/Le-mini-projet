@@ -4,70 +4,66 @@ from dash.dependencies import Input, Output
 import requests
 import plotly.graph_objs as go
 
-# Fonction pour récupérer les dimensions depuis l'API
+# Function to get dimensions from the API
 def get_dimensions(api_url):
-    response = requests.get(api_url)
-    response.raise_for_status()  # Lève une exception pour les codes HTTP d'erreur
-    data = response.json()
-    return data['value']
+    try:
+        response = requests.get(api_url)
+        response.raise_for_status()
+        data = response.json()
 
+        # Update the path to navigate the JSON response correctly
+        dimensions = data.get('components', {}).get('schemas', {}).get('MetierEnrichi', {}).get('romes', [])
 
-
-
-
-# Fonction pour récupérer les données pour une dimension donnée
-def get_data_for_dimension(api_url, dimension_code):
-    response = requests.get(f"{api_url}/{dimension_code}")
-    response.raise_for_status()
-    data = response.json()
-
-    # Inspectez la structure réelle des données pour déterminer la bonne clé
-    if 'value' in data:
-        return data['value']
-    else:
-        # Ajoutez une gestion d'erreur appropriée si la clé attendue n'est pas trouvée
-        print(f"La clé 'value' n'a pas été trouvée dans les données pour la dimension {dimension_code}.")
+        if not dimensions:
+            print("No dimensions found in the API response.")
+            return []
+        return dimensions
+    except Exception as e:
+        print(f"Error fetching dimensions: {str(e)}")
         return []
 
+# Function to get data for a specific dimension
+def get_data_for_dimension(api_url, dimension_code):
+    try:
+        response = requests.get(f"{api_url}/{dimension_code}")
+        response.raise_for_status()
+        data = response.json()
 
+        # Update this block based on the actual structure of the API response
+        if 'romes' in data:
+            return data['romes']
+        else:
+            print(f"Key 'romes' not found in data for dimension {dimension_code}.")
+            return []
+    except Exception as e:
+        print(f"Error fetching data for dimension {dimension_code}: {str(e)}")
+        return []
 
-
-
-# Configuration de l'application Dash
+# Dash app configuration
 app = dash.Dash(__name__)
 
-
-
-
-# URL de l'API
-api_url = "https://ghoapi.azureedge.net/api/Dimension"
+# API URL
+api_url = "https://labonnealternance.apprentissage.beta.gouv.fr/api"  # Update with the correct API endpoint
 dimensions = get_dimensions(api_url)
 
-
-
-
-
-# Mise en page du dashboard
+# Dashboard layout
 app.layout = html.Div([
-    html.H1("WHO API Dashboard"),
-    
-    html.Label("Sélectionnez une dimension :"),
+    html.H1("Alternance API Dashboard"),
+
+    html.Label("Select a dimension:"),
     dcc.Dropdown(
         id='dimension-dropdown',
-        options=[{'label': dimension['Title'], 'value': dimension['Code']} for dimension in dimensions],
-        value=dimensions[0]['Code']
+        # Update 'label' and 'value' with the keys present in your dimensions data
+        options=[{'label': dimension['label'], 'value': dimension['codeRome']} for dimension in dimensions],
+        value=dimensions[0]['codeRome'] if dimensions else None
     ),
-    
+
     dcc.Graph(id='dimension-graph'),
 
     html.Div(id='selected-dimension'),
 ])
 
-
-
-
-
-# Callback pour mettre à jour l'affichage en fonction de la dimension sélectionnée
+# Callback to update the display based on the selected dimension
 @app.callback(
     [Output('selected-dimension', 'children'),
      Output('dimension-graph', 'figure')],
@@ -76,40 +72,25 @@ app.layout = html.Div([
 def update_selected_dimension(selected_dimension):
     data = get_data_for_dimension(api_url, selected_dimension)
 
-    # Ajoutez une impression pour déboguer
-    print(f"Data for dimension {selected_dimension}: {data}")
+    # Update 'x' and 'y' data extraction according to your data structure
+    x_data = [entry.get('YourXKey', 0) for entry in data]
+    y_data = [entry.get('YourYKey', 0) for entry in data]
 
-    # Assurez-vous que les noms de clés correspondent à la structure réelle des données
-    x_data = [entry.get('Year', 0) for entry in data]
-    y_data = [entry.get('Value', 0) for entry in data]
-
-    # Ajoutez une impression pour déboguer
-    print(f"x_data: {x_data}")
-    print(f"y_data: {y_data}")
-
-    # Création de la trace de la courbe
     trace = go.Scatter(
         x=x_data,
         y=y_data,
         mode='lines+markers',
-        name='Courbe de la dimension'
+        name='Dimension Curve'
     )
 
     layout = go.Layout(
-        title=f"Courbe de la dimension {selected_dimension}",
-        xaxis=dict(title='Année'),
-        yaxis=dict(title='Valeur')
+        title=f"Dimension Curve for {selected_dimension}",
+        xaxis=dict(title='X-Axis'),
+        yaxis=dict(title='Y-Axis')
     )
 
-    return f"Vous avez sélectionné la dimension : {selected_dimension}", {'data': [trace], 'layout': layout}
+    return f"You have selected the dimension: {selected_dimension}", {'data': [trace], 'layout': layout}
 
-
-
-
-
-
-
-
-# Exécution de l'application
+# Run the application
 if __name__ == '__main__':
     app.run_server(debug=True)
