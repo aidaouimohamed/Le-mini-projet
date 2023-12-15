@@ -9,3 +9,4 @@ beautifulsoup4==4.12.2
 geopandas==0.14.1
 scrapy==2.11.0
 selenium==4.15.2
+aiohttp==3.9.1

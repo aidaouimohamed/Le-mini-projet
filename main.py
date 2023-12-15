@@ -64,7 +64,24 @@ async def get_data_async():
     df_offres_count = df_offres_count[df_offres_count['Nombre d\'Offres'] > 5]
     return df_offres_count
 
-# Callback pour mettre à jour le graphique
+# Callback for updating the pie chart
+@app.callback(
+    Output('pie-chart-container', 'children'),
+    [Input('interval-component', 'n_intervals')]
+)
+def update_pie_chart(n):
+    df_offres_count = asyncio.run(get_data_async())
+    total_offres = df_offres_count['Nombre d\'Offres'].sum()
+    
+    # Calculate the percentage column
+    df_offres_count['Pourcentage'] = (df_offres_count['Nombre d\'Offres'] / total_offres) * 100
+    
+    # Set the height and width of the pie chart
+    fig = px.pie(df_offres_count, names='Ville', values='Pourcentage', title='Répartition des Offres par Ville', height=500, width=700)
+    return dcc.Graph(figure=fig)
+
+
+# Callback for updating the bar chart
 @app.callback(
     Output('graph-container', 'children'),
     [Input('interval-component', 'n_intervals')]
@@ -74,17 +91,20 @@ def update_graph(n):
     fig = px.bar(df_offres_count, x='Ville', y='Nombre d\'Offres', title='Nombre d\'Offres par Ville')
     return dcc.Graph(figure=fig)
 
-# Layout de l'application
+# Layout of the application
 app.layout = html.Div([
     html.H1("Dashboard des Offres d'Emploi"),
     dcc.Interval(
         id='interval-component',
-        interval=300000,  # Mise à jour toutes les minutes
+        interval=300000,  # Update every 5 minutes
         n_intervals=0
     ),
-    html.Div(id='graph-container')
+    html.Div([
+        html.Div(id='graph-container', style={'width': '49%', 'display': 'inline-block'}),
+        html.Div(id='pie-chart-container', style={'width': '49%', 'display': 'inline-block'})
+    ])
 ])
 
-# Lancement de l'application
+# Launch the application
 if __name__ == '__main__':
     app.run_server(debug=True)

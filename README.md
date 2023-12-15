@@ -7,4 +7,6 @@ le contexte de l’étude :  le producteur de données :  le lien qui pointe ver
 ## Environnement du Projet 
 
 1 - Config de 'environnement d'éxéction 
-    commande pour installer toutes les dépendances : "install -r requirements.txt"
+    commande pour installer toutes les dépendances : "pip install -r requirements.txt"
+
+
