@@ -23,7 +23,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2006-01-15",
             "effectif_de_jeunes": 34,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -65,7 +65,7 @@
             "code_type_diplome": "DEUST",
             "date": "2006-01-15",
             "effectif_de_jeunes": 93,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -79,7 +79,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2006-01-15",
             "effectif_de_jeunes": 49,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -93,7 +93,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2006-01-15",
             "effectif_de_jeunes": 9,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -107,7 +107,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2007-01-15",
             "effectif_de_jeunes": 104,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -121,7 +121,7 @@
             "code_type_diplome": "TH2-U",
             "date": "2007-01-15",
             "effectif_de_jeunes": 19,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -135,7 +135,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2007-01-15",
             "effectif_de_jeunes": 290,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -149,7 +149,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2007-01-15",
             "effectif_de_jeunes": 45,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -163,7 +163,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2007-01-15",
             "effectif_de_jeunes": 80,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -177,7 +177,7 @@
             "code_type_diplome": "MC",
             "date": "2007-01-15",
             "effectif_de_jeunes": 301,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -205,7 +205,7 @@
             "code_type_diplome": "CLIPA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 480,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -219,7 +219,7 @@
             "code_type_diplome": "DIP1-CNAM",
             "date": "2008-01-15",
             "effectif_de_jeunes": 24,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -233,7 +233,7 @@
             "code_type_diplome": "ING",
             "date": "2008-01-15",
             "effectif_de_jeunes": 1209,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -247,7 +247,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2008-01-15",
             "effectif_de_jeunes": 116,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -261,7 +261,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2008-01-15",
             "effectif_de_jeunes": 329,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -275,7 +275,7 @@
             "code_type_diplome": "DEUST",
             "date": "2008-01-15",
             "effectif_de_jeunes": 96,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -289,7 +289,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2008-01-15",
             "effectif_de_jeunes": 263,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -303,7 +303,7 @@
             "code_type_diplome": "TH3-N",
             "date": "2008-01-15",
             "effectif_de_jeunes": 67,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -317,7 +317,7 @@
             "code_type_diplome": "BMA",
             "date": "2008-01-15",
             "effectif_de_jeunes": 14,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -345,7 +345,7 @@
             "code_type_diplome": "DEUST",
             "date": "2009-01-15",
             "effectif_de_jeunes": 71,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -359,7 +359,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2009-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -373,7 +373,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2009-01-15",
             "effectif_de_jeunes": 88,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -387,7 +387,7 @@
             "code_type_diplome": "TH4-T",
             "date": "2009-01-15",
             "effectif_de_jeunes": 12,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -415,7 +415,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2010-01-15",
             "effectif_de_jeunes": 4759,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -429,7 +429,7 @@
             "code_type_diplome": "TH2-J",
             "date": "2010-01-15",
             "effectif_de_jeunes": 3,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -443,7 +443,7 @@
             "code_type_diplome": "TH3-N",
             "date": "2010-01-15",
             "effectif_de_jeunes": 56,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -457,7 +457,7 @@
             "code_type_diplome": "BPA5",
             "date": "2010-01-15",
             "effectif_de_jeunes": 47,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -485,7 +485,7 @@
             "code_type_diplome": "TH2-K",
             "date": "2011-01-15",
             "effectif_de_jeunes": 42,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -499,7 +499,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2011-01-15",
             "effectif_de_jeunes": 247,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -513,7 +513,7 @@
             "code_type_diplome": "BPA",
             "date": "2011-01-15",
             "effectif_de_jeunes": 73,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -527,7 +527,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2011-01-15",
             "effectif_de_jeunes": 3,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -555,7 +555,7 @@
             "code_type_diplome": "DIV-5",
             "date": "2011-01-15",
             "effectif_de_jeunes": 489,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -569,7 +569,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2011-01-15",
             "effectif_de_jeunes": 22,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -597,7 +597,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2012-01-15",
             "effectif_de_jeunes": 515,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -611,7 +611,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2012-01-15",
             "effectif_de_jeunes": 107,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -653,7 +653,7 @@
             "code_type_diplome": "MC",
             "date": "2012-01-15",
             "effectif_de_jeunes": 464,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -667,7 +667,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2012-01-15",
             "effectif_de_jeunes": 112,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -681,7 +681,7 @@
             "code_type_diplome": "ING",
             "date": "2013-01-15",
             "effectif_de_jeunes": 1816,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -695,7 +695,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2013-01-15",
             "effectif_de_jeunes": 2,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -709,7 +709,7 @@
             "code_type_diplome": "BTSA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 150,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -723,7 +723,7 @@
             "code_type_diplome": "DEUST",
             "date": "2013-01-15",
             "effectif_de_jeunes": 42,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -737,7 +737,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2013-01-15",
             "effectif_de_jeunes": 270,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -779,7 +779,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2006-01-15",
             "effectif_de_jeunes": 135,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -793,7 +793,7 @@
             "code_type_diplome": "MST",
             "date": "2006-01-15",
             "effectif_de_jeunes": 362,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -821,7 +821,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2006-01-15",
             "effectif_de_jeunes": 121,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -835,7 +835,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2006-01-15",
             "effectif_de_jeunes": 94,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -849,7 +849,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2007-01-15",
             "effectif_de_jeunes": 13,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -863,7 +863,7 @@
             "code_type_diplome": "DIP GVM",
             "date": "2007-01-15",
             "effectif_de_jeunes": 32,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -891,7 +891,7 @@
             "code_type_diplome": "BP",
             "date": "2007-01-15",
             "effectif_de_jeunes": 1967,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -933,7 +933,7 @@
             "code_type_diplome": "CPA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 2273,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -961,7 +961,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2008-01-15",
             "effectif_de_jeunes": 1319,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -989,7 +989,7 @@
             "code_type_diplome": "TH2-J",
             "date": "2008-01-15",
             "effectif_de_jeunes": 4,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1003,7 +1003,7 @@
             "code_type_diplome": "BTS",
             "date": "2008-01-15",
             "effectif_de_jeunes": 5144,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1031,7 +1031,7 @@
             "code_type_diplome": "BPA",
             "date": "2008-01-15",
             "effectif_de_jeunes": 55,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1045,7 +1045,7 @@
             "code_type_diplome": "TH4-J",
             "date": "2008-01-15",
             "effectif_de_jeunes": 59,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1059,7 +1059,7 @@
             "code_type_diplome": "TH5-C",
             "date": "2008-01-15",
             "effectif_de_jeunes": 44,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1073,7 +1073,7 @@
             "code_type_diplome": "DIP1-CNAM",
             "date": "2009-01-15",
             "effectif_de_jeunes": 24,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1087,7 +1087,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2009-01-15",
             "effectif_de_jeunes": 249,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1101,7 +1101,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2009-01-15",
             "effectif_de_jeunes": 40,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1115,7 +1115,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2009-01-15",
             "effectif_de_jeunes": 29,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1129,7 +1129,7 @@
             "code_type_diplome": "CSA NIV3",
             "date": "2009-01-15",
             "effectif_de_jeunes": 8,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1157,7 +1157,7 @@
             "code_type_diplome": "MC",
             "date": "2009-01-15",
             "effectif_de_jeunes": 454,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1171,7 +1171,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2010-01-15",
             "effectif_de_jeunes": 25,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1199,7 +1199,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2010-01-15",
             "effectif_de_jeunes": 81,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1213,7 +1213,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2010-01-15",
             "effectif_de_jeunes": 305,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1227,7 +1227,7 @@
             "code_type_diplome": "BMA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 31,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1241,7 +1241,7 @@
             "code_type_diplome": "TH4-R",
             "date": "2010-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1255,7 +1255,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2010-01-15",
             "effectif_de_jeunes": 166,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1269,7 +1269,7 @@
             "code_type_diplome": "MC",
             "date": "2010-01-15",
             "effectif_de_jeunes": 494,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1297,7 +1297,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2011-01-15",
             "effectif_de_jeunes": 27,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1311,7 +1311,7 @@
             "code_type_diplome": "TH3-Q",
             "date": "2011-01-15",
             "effectif_de_jeunes": 16,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1325,7 +1325,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2011-01-15",
             "effectif_de_jeunes": 110,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1339,7 +1339,7 @@
             "code_type_diplome": "TH4-J",
             "date": "2011-01-15",
             "effectif_de_jeunes": 48,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1367,7 +1367,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2012-01-15",
             "effectif_de_jeunes": 203,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1395,7 +1395,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2012-01-15",
             "effectif_de_jeunes": 32,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1409,7 +1409,7 @@
             "code_type_diplome": "BTSA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 74,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1423,7 +1423,7 @@
             "code_type_diplome": "DEUST",
             "date": "2012-01-15",
             "effectif_de_jeunes": 46,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1437,7 +1437,7 @@
             "code_type_diplome": "TH4-T",
             "date": "2012-01-15",
             "effectif_de_jeunes": 21,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1479,7 +1479,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2013-01-15",
             "effectif_de_jeunes": 593,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1493,7 +1493,7 @@
             "code_type_diplome": "TH2-N",
             "date": "2013-01-15",
             "effectif_de_jeunes": 88,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1507,7 +1507,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2013-01-15",
             "effectif_de_jeunes": 535,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1521,7 +1521,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2013-01-15",
             "effectif_de_jeunes": 158,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1535,7 +1535,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2006-01-15",
             "effectif_de_jeunes": 2526,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1563,7 +1563,7 @@
             "code_type_diplome": "TH3-N",
             "date": "2006-01-15",
             "effectif_de_jeunes": 59,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1591,7 +1591,7 @@
             "code_type_diplome": "DIV-5",
             "date": "2006-01-15",
             "effectif_de_jeunes": 51,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1605,7 +1605,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2007-01-15",
             "effectif_de_jeunes": 1500,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1633,7 +1633,7 @@
             "code_type_diplome": "DUT",
             "date": "2007-01-15",
             "effectif_de_jeunes": 1028,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1647,7 +1647,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2008-01-15",
             "effectif_de_jeunes": 16,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1661,7 +1661,7 @@
             "code_type_diplome": "TH2-R",
             "date": "2008-01-15",
             "effectif_de_jeunes": 24,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1675,7 +1675,7 @@
             "code_type_diplome": "BTSA",
             "date": "2008-01-15",
             "effectif_de_jeunes": 85,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1703,7 +1703,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2008-01-15",
             "effectif_de_jeunes": 231,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1717,7 +1717,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2008-01-15",
             "effectif_de_jeunes": 126,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1731,7 +1731,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2009-01-15",
             "effectif_de_jeunes": 4,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1745,7 +1745,7 @@
             "code_type_diplome": "DMA",
             "date": "2009-01-15",
             "effectif_de_jeunes": 10,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1759,7 +1759,7 @@
             "code_type_diplome": "BAC TECHNO",
             "date": "2009-01-15",
             "effectif_de_jeunes": 80,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1815,7 +1815,7 @@
             "code_type_diplome": "TH1-X",
             "date": "2010-01-15",
             "effectif_de_jeunes": 67,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1843,7 +1843,7 @@
             "code_type_diplome": "DUT",
             "date": "2010-01-15",
             "effectif_de_jeunes": 1195,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1857,7 +1857,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2010-01-15",
             "effectif_de_jeunes": 35,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1871,7 +1871,7 @@
             "code_type_diplome": "CAP",
             "date": "2010-01-15",
             "effectif_de_jeunes": 11354,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1885,7 +1885,7 @@
             "code_type_diplome": "TH5-C",
             "date": "2010-01-15",
             "effectif_de_jeunes": 41,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1899,7 +1899,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2011-01-15",
             "effectif_de_jeunes": 5079,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1913,7 +1913,7 @@
             "code_type_diplome": "MST",
             "date": "2011-01-15",
             "effectif_de_jeunes": 146,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1927,7 +1927,7 @@
             "code_type_diplome": "DUT",
             "date": "2011-01-15",
             "effectif_de_jeunes": 1214,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1941,7 +1941,7 @@
             "code_type_diplome": "BAC TECHNO",
             "date": "2011-01-15",
             "effectif_de_jeunes": 88,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1955,7 +1955,7 @@
             "code_type_diplome": "BP",
             "date": "2011-01-15",
             "effectif_de_jeunes": 2278,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -1969,7 +1969,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2011-01-15",
             "effectif_de_jeunes": 276,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2011,7 +2011,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2012-01-15",
             "effectif_de_jeunes": 571,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2025,7 +2025,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2012-01-15",
             "effectif_de_jeunes": 267,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2053,7 +2053,7 @@
             "code_type_diplome": "BMA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 32,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2067,7 +2067,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2012-01-15",
             "effectif_de_jeunes": 76,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2081,7 +2081,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2012-01-15",
             "effectif_de_jeunes": 95,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2095,7 +2095,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2012-01-15",
             "effectif_de_jeunes": 42,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2109,7 +2109,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2013-01-15",
             "effectif_de_jeunes": 5596,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2123,7 +2123,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2013-01-15",
             "effectif_de_jeunes": 16,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2137,7 +2137,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2013-01-15",
             "effectif_de_jeunes": 313,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2193,7 +2193,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2006-01-15",
             "effectif_de_jeunes": 145,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2207,7 +2207,7 @@
             "code_type_diplome": "DUT",
             "date": "2006-01-15",
             "effectif_de_jeunes": 946,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2235,7 +2235,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2006-01-15",
             "effectif_de_jeunes": 15,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2263,7 +2263,7 @@
             "code_type_diplome": "ING",
             "date": "2007-01-15",
             "effectif_de_jeunes": 1164,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2277,7 +2277,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2007-01-15",
             "effectif_de_jeunes": 22,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2291,7 +2291,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2007-01-15",
             "effectif_de_jeunes": 3133,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2305,7 +2305,7 @@
             "code_type_diplome": "TH2-N",
             "date": "2007-01-15",
             "effectif_de_jeunes": 61,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2319,7 +2319,7 @@
             "code_type_diplome": "DEUST",
             "date": "2007-01-15",
             "effectif_de_jeunes": 97,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2333,7 +2333,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2007-01-15",
             "effectif_de_jeunes": 9,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2361,7 +2361,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2007-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2375,7 +2375,7 @@
             "code_type_diplome": "DIV-5",
             "date": "2007-01-15",
             "effectif_de_jeunes": 234,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2389,7 +2389,7 @@
             "code_type_diplome": "TH5-C",
             "date": "2007-01-15",
             "effectif_de_jeunes": 44,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2403,7 +2403,7 @@
             "code_type_diplome": "TH2-Q",
             "date": "2008-01-15",
             "effectif_de_jeunes": 42,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2417,7 +2417,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2008-01-15",
             "effectif_de_jeunes": 62,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2431,7 +2431,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2008-01-15",
             "effectif_de_jeunes": 59,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2445,7 +2445,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2008-01-15",
             "effectif_de_jeunes": 238,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2459,7 +2459,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2008-01-15",
             "effectif_de_jeunes": 115,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2501,7 +2501,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2009-01-15",
             "effectif_de_jeunes": 227,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2571,7 +2571,7 @@
             "code_type_diplome": "TH2-U",
             "date": "2010-01-15",
             "effectif_de_jeunes": 19,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2585,7 +2585,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2010-01-15",
             "effectif_de_jeunes": 326,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2613,7 +2613,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2010-01-15",
             "effectif_de_jeunes": 86,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2627,7 +2627,7 @@
             "code_type_diplome": "TH4-J",
             "date": "2010-01-15",
             "effectif_de_jeunes": 44,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2641,7 +2641,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2010-01-15",
             "effectif_de_jeunes": 99,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2655,7 +2655,7 @@
             "code_type_diplome": "DIP GVM",
             "date": "2011-01-15",
             "effectif_de_jeunes": 618,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2669,7 +2669,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2011-01-15",
             "effectif_de_jeunes": 546,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2683,7 +2683,7 @@
             "code_type_diplome": "BTS",
             "date": "2011-01-15",
             "effectif_de_jeunes": 5824,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2711,7 +2711,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2011-01-15",
             "effectif_de_jeunes": 34,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2725,7 +2725,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2011-01-15",
             "effectif_de_jeunes": 20,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2739,7 +2739,7 @@
             "code_type_diplome": "BAC PRO",
             "date": "2011-01-15",
             "effectif_de_jeunes": 5323,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2753,7 +2753,7 @@
             "code_type_diplome": "TH1-U",
             "date": "2012-01-15",
             "effectif_de_jeunes": 8,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2767,7 +2767,7 @@
             "code_type_diplome": "TH2-N",
             "date": "2012-01-15",
             "effectif_de_jeunes": 88,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2781,7 +2781,7 @@
             "code_type_diplome": "DE JEPS",
             "date": "2012-01-15",
             "effectif_de_jeunes": 39,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2795,7 +2795,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2012-01-15",
             "effectif_de_jeunes": 18,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2809,7 +2809,7 @@
             "code_type_diplome": "DMA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 7,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2837,7 +2837,7 @@
             "code_type_diplome": "BPA5",
             "date": "2012-01-15",
             "effectif_de_jeunes": 85,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2865,7 +2865,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2013-01-15",
             "effectif_de_jeunes": 553,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2879,7 +2879,7 @@
             "code_type_diplome": "MBA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 26,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2893,7 +2893,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2013-01-15",
             "effectif_de_jeunes": 518,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2907,7 +2907,7 @@
             "code_type_diplome": "DSAA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 1,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2921,7 +2921,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2013-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2935,7 +2935,7 @@
             "code_type_diplome": "DMA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2949,7 +2949,7 @@
             "code_type_diplome": "TH3-M",
             "date": "2013-01-15",
             "effectif_de_jeunes": 22,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2963,7 +2963,7 @@
             "code_type_diplome": "BAC PRO",
             "date": "2013-01-15",
             "effectif_de_jeunes": 3698,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2977,7 +2977,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2013-01-15",
             "effectif_de_jeunes": 30,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -2991,7 +2991,7 @@
             "code_type_diplome": "TH5-T",
             "date": "2013-01-15",
             "effectif_de_jeunes": 74,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3005,7 +3005,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2006-01-15",
             "effectif_de_jeunes": 265,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3019,7 +3019,7 @@
             "code_type_diplome": "TH3-R",
             "date": "2006-01-15",
             "effectif_de_jeunes": 174,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3047,7 +3047,7 @@
             "code_type_diplome": "BEPA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 287,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3061,7 +3061,7 @@
             "code_type_diplome": "TH5-T",
             "date": "2006-01-15",
             "effectif_de_jeunes": 15,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3075,7 +3075,7 @@
             "code_type_diplome": "CLIPA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 312,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3089,7 +3089,7 @@
             "code_type_diplome": "CPA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 1986,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3103,7 +3103,7 @@
             "code_type_diplome": "TH1-X",
             "date": "2007-01-15",
             "effectif_de_jeunes": 64,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3117,7 +3117,7 @@
             "code_type_diplome": "DMA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3131,7 +3131,7 @@
             "code_type_diplome": "BAC PRO",
             "date": "2007-01-15",
             "effectif_de_jeunes": 3844,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3145,7 +3145,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2007-01-15",
             "effectif_de_jeunes": 189,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3159,7 +3159,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2007-01-15",
             "effectif_de_jeunes": 65,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3173,7 +3173,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2007-01-15",
             "effectif_de_jeunes": 103,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3187,7 +3187,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2007-01-15",
             "effectif_de_jeunes": 10,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3201,7 +3201,7 @@
             "code_type_diplome": "CAPA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 254,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3215,7 +3215,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2008-01-15",
             "effectif_de_jeunes": 14,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3243,7 +3243,7 @@
             "code_type_diplome": "TH3-U",
             "date": "2008-01-15",
             "effectif_de_jeunes": 3,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3257,7 +3257,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2008-01-15",
             "effectif_de_jeunes": 31,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3271,7 +3271,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2008-01-15",
             "effectif_de_jeunes": 96,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3285,7 +3285,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2009-01-15",
             "effectif_de_jeunes": 904,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3299,7 +3299,7 @@
             "code_type_diplome": "TH2-J",
             "date": "2009-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3313,7 +3313,7 @@
             "code_type_diplome": "TH3-Q",
             "date": "2009-01-15",
             "effectif_de_jeunes": 3,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3327,7 +3327,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2009-01-15",
             "effectif_de_jeunes": 193,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3341,7 +3341,7 @@
             "code_type_diplome": "BMA",
             "date": "2009-01-15",
             "effectif_de_jeunes": 21,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3355,7 +3355,7 @@
             "code_type_diplome": "BP",
             "date": "2009-01-15",
             "effectif_de_jeunes": 2082,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3369,7 +3369,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2009-01-15",
             "effectif_de_jeunes": 27,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3383,7 +3383,7 @@
             "code_type_diplome": "TH5-T",
             "date": "2009-01-15",
             "effectif_de_jeunes": 20,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3397,7 +3397,7 @@
             "code_type_diplome": "MASTER PRO",
             "date": "2010-01-15",
             "effectif_de_jeunes": 4271,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3425,7 +3425,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2010-01-15",
             "effectif_de_jeunes": 16,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3439,7 +3439,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2011-01-15",
             "effectif_de_jeunes": 65,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3453,7 +3453,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2011-01-15",
             "effectif_de_jeunes": 29,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3481,7 +3481,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2011-01-15",
             "effectif_de_jeunes": 162,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3495,7 +3495,7 @@
             "code_type_diplome": "DIP1-CNAM",
             "date": "2012-01-15",
             "effectif_de_jeunes": 39,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3509,7 +3509,7 @@
             "code_type_diplome": "ING",
             "date": "2012-01-15",
             "effectif_de_jeunes": 1603,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3523,7 +3523,7 @@
             "code_type_diplome": "TH2-K",
             "date": "2012-01-15",
             "effectif_de_jeunes": 43,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3537,7 +3537,7 @@
             "code_type_diplome": "TH3-M",
             "date": "2012-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3551,7 +3551,7 @@
             "code_type_diplome": "BP",
             "date": "2012-01-15",
             "effectif_de_jeunes": 2205,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3565,7 +3565,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2012-01-15",
             "effectif_de_jeunes": 41,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3593,7 +3593,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2012-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3607,7 +3607,7 @@
             "code_type_diplome": "CAPA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 281,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3635,7 +3635,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2013-01-15",
             "effectif_de_jeunes": 250,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3649,7 +3649,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2013-01-15",
             "effectif_de_jeunes": 37,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3663,7 +3663,7 @@
             "code_type_diplome": "CAP",
             "date": "2013-01-15",
             "effectif_de_jeunes": 10616,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3677,7 +3677,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2013-01-15",
             "effectif_de_jeunes": 124,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3691,7 +3691,7 @@
             "code_type_diplome": "ING",
             "date": "2006-01-15",
             "effectif_de_jeunes": 892,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3719,7 +3719,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2006-01-15",
             "effectif_de_jeunes": 608,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3733,7 +3733,7 @@
             "code_type_diplome": "ASSIMI.BTS",
             "date": "2006-01-15",
             "effectif_de_jeunes": 8,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3761,7 +3761,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2006-01-15",
             "effectif_de_jeunes": 81,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3775,7 +3775,7 @@
             "code_type_diplome": "BPA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 46,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3789,7 +3789,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2006-01-15",
             "effectif_de_jeunes": 137,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3817,7 +3817,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2006-01-15",
             "effectif_de_jeunes": 33,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3831,7 +3831,7 @@
             "code_type_diplome": "TH5-R",
             "date": "2006-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3845,7 +3845,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2007-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3859,7 +3859,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2007-01-15",
             "effectif_de_jeunes": 178,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3887,7 +3887,7 @@
             "code_type_diplome": "TH2-E",
             "date": "2007-01-15",
             "effectif_de_jeunes": 18,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3915,7 +3915,7 @@
             "code_type_diplome": "CSA NIV3",
             "date": "2007-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3929,7 +3929,7 @@
             "code_type_diplome": "BAC TECHNO",
             "date": "2007-01-15",
             "effectif_de_jeunes": 74,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3943,7 +3943,7 @@
             "code_type_diplome": "BPA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 45,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3957,7 +3957,7 @@
             "code_type_diplome": "BT",
             "date": "2007-01-15",
             "effectif_de_jeunes": 13,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3971,7 +3971,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2007-01-15",
             "effectif_de_jeunes": 21,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -3999,7 +3999,7 @@
             "code_type_diplome": "DIP GVM",
             "date": "2008-01-15",
             "effectif_de_jeunes": 60,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4013,7 +4013,7 @@
             "code_type_diplome": "MAITRISE",
             "date": "2008-01-15",
             "effectif_de_jeunes": 14,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4027,7 +4027,7 @@
             "code_type_diplome": "TH3-R",
             "date": "2008-01-15",
             "effectif_de_jeunes": 174,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4041,7 +4041,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2008-01-15",
             "effectif_de_jeunes": 67,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4069,7 +4069,7 @@
             "code_type_diplome": "TH5-T",
             "date": "2008-01-15",
             "effectif_de_jeunes": 33,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4083,7 +4083,7 @@
             "code_type_diplome": "MBA",
             "date": "2009-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4125,7 +4125,7 @@
             "code_type_diplome": "TH2-Q",
             "date": "2009-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4139,7 +4139,7 @@
             "code_type_diplome": "DUT",
             "date": "2009-01-15",
             "effectif_de_jeunes": 1313,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4153,7 +4153,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2009-01-15",
             "effectif_de_jeunes": 196,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4167,7 +4167,7 @@
             "code_type_diplome": "BAC PRO",
             "date": "2009-01-15",
             "effectif_de_jeunes": 4360,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4181,7 +4181,7 @@
             "code_type_diplome": "BEPA",
             "date": "2009-01-15",
             "effectif_de_jeunes": 271,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4209,7 +4209,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2009-01-15",
             "effectif_de_jeunes": 42,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4223,7 +4223,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2010-01-15",
             "effectif_de_jeunes": 89,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4237,7 +4237,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2010-01-15",
             "effectif_de_jeunes": 460,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4251,7 +4251,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2010-01-15",
             "effectif_de_jeunes": 23,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4265,7 +4265,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2010-01-15",
             "effectif_de_jeunes": 255,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4279,7 +4279,7 @@
             "code_type_diplome": "TH3-R",
             "date": "2010-01-15",
             "effectif_de_jeunes": 52,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4293,7 +4293,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2010-01-15",
             "effectif_de_jeunes": 283,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4307,7 +4307,7 @@
             "code_type_diplome": "MC",
             "date": "2010-01-15",
             "effectif_de_jeunes": 260,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4321,7 +4321,7 @@
             "code_type_diplome": "BEP",
             "date": "2010-01-15",
             "effectif_de_jeunes": 589,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4335,7 +4335,7 @@
             "code_type_diplome": "MBA",
             "date": "2011-01-15",
             "effectif_de_jeunes": 25,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4377,7 +4377,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2011-01-15",
             "effectif_de_jeunes": 61,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4391,7 +4391,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2011-01-15",
             "effectif_de_jeunes": 26,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4405,7 +4405,7 @@
             "code_type_diplome": "TH5-T",
             "date": "2011-01-15",
             "effectif_de_jeunes": 58,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4433,7 +4433,7 @@
             "code_type_diplome": "TH1-A",
             "date": "2012-01-15",
             "effectif_de_jeunes": 4,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4447,7 +4447,7 @@
             "code_type_diplome": "TH1-X",
             "date": "2012-01-15",
             "effectif_de_jeunes": 101,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4475,7 +4475,7 @@
             "code_type_diplome": "TH2-R",
             "date": "2012-01-15",
             "effectif_de_jeunes": 187,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4489,7 +4489,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2012-01-15",
             "effectif_de_jeunes": 99,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4531,7 +4531,7 @@
             "code_type_diplome": "TH2-R",
             "date": "2013-01-15",
             "effectif_de_jeunes": 167,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4559,7 +4559,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2013-01-15",
             "effectif_de_jeunes": 119,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4573,7 +4573,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2013-01-15",
             "effectif_de_jeunes": 86,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4587,7 +4587,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2013-01-15",
             "effectif_de_jeunes": 43,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4601,7 +4601,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2013-01-15",
             "effectif_de_jeunes": 25,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4615,7 +4615,7 @@
             "code_type_diplome": "TH2-Q",
             "date": "2006-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4629,7 +4629,7 @@
             "code_type_diplome": "BTSA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 67,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4643,7 +4643,7 @@
             "code_type_diplome": "DMA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 4,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4657,7 +4657,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2006-01-15",
             "effectif_de_jeunes": 340,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4671,7 +4671,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2006-01-15",
             "effectif_de_jeunes": 26,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4685,7 +4685,7 @@
             "code_type_diplome": "BAC TECHNO",
             "date": "2006-01-15",
             "effectif_de_jeunes": 48,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4699,7 +4699,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2006-01-15",
             "effectif_de_jeunes": 29,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4741,7 +4741,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2007-01-15",
             "effectif_de_jeunes": 247,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4755,7 +4755,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2007-01-15",
             "effectif_de_jeunes": 317,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4797,7 +4797,7 @@
             "code_type_diplome": "BTSA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 54,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4825,7 +4825,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2007-01-15",
             "effectif_de_jeunes": 157,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4853,7 +4853,7 @@
             "code_type_diplome": "MASTER PRO",
             "date": "2008-01-15",
             "effectif_de_jeunes": 3350,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4867,7 +4867,7 @@
             "code_type_diplome": "TH1-A",
             "date": "2008-01-15",
             "effectif_de_jeunes": 8,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4895,7 +4895,7 @@
             "code_type_diplome": "TH2-K",
             "date": "2008-01-15",
             "effectif_de_jeunes": 20,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4923,7 +4923,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2008-01-15",
             "effectif_de_jeunes": 59,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4951,7 +4951,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2009-01-15",
             "effectif_de_jeunes": 271,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4965,7 +4965,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2009-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -4979,7 +4979,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2009-01-15",
             "effectif_de_jeunes": 56,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5007,7 +5007,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2009-01-15",
             "effectif_de_jeunes": 24,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5049,7 +5049,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2010-01-15",
             "effectif_de_jeunes": 39,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5063,7 +5063,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2010-01-15",
             "effectif_de_jeunes": 711,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5091,7 +5091,7 @@
             "code_type_diplome": "TH2-R",
             "date": "2010-01-15",
             "effectif_de_jeunes": 113,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5105,7 +5105,7 @@
             "code_type_diplome": "TH3-K",
             "date": "2010-01-15",
             "effectif_de_jeunes": 38,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5119,7 +5119,7 @@
             "code_type_diplome": "BAC PRO",
             "date": "2010-01-15",
             "effectif_de_jeunes": 6009,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5133,7 +5133,7 @@
             "code_type_diplome": "BPA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 65,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5161,7 +5161,7 @@
             "code_type_diplome": "TH2-R",
             "date": "2011-01-15",
             "effectif_de_jeunes": 167,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5203,7 +5203,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2011-01-15",
             "effectif_de_jeunes": 76,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5217,7 +5217,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2011-01-15",
             "effectif_de_jeunes": 92,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5231,7 +5231,7 @@
             "code_type_diplome": "TH4-T",
             "date": "2011-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5259,7 +5259,7 @@
             "code_type_diplome": "MBA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5287,7 +5287,7 @@
             "code_type_diplome": "TH2-Q",
             "date": "2012-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5301,7 +5301,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2012-01-15",
             "effectif_de_jeunes": 578,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5343,7 +5343,7 @@
             "code_type_diplome": "TH3-Q",
             "date": "2012-01-15",
             "effectif_de_jeunes": 9,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5371,7 +5371,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2012-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5385,7 +5385,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2013-01-15",
             "effectif_de_jeunes": 31,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5399,7 +5399,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2013-01-15",
             "effectif_de_jeunes": 174,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5413,7 +5413,7 @@
             "code_type_diplome": "BMA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 33,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5427,7 +5427,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2013-01-15",
             "effectif_de_jeunes": 341,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5441,7 +5441,7 @@
             "code_type_diplome": "DESS",
             "date": "2006-01-15",
             "effectif_de_jeunes": 248,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5455,7 +5455,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2006-01-15",
             "effectif_de_jeunes": 1,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5469,7 +5469,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2006-01-15",
             "effectif_de_jeunes": 194,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5497,7 +5497,7 @@
             "code_type_diplome": "DEUG",
             "date": "2006-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5525,7 +5525,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2007-01-15",
             "effectif_de_jeunes": 211,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5539,7 +5539,7 @@
             "code_type_diplome": "TH3-R",
             "date": "2007-01-15",
             "effectif_de_jeunes": 156,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5553,7 +5553,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2007-01-15",
             "effectif_de_jeunes": 153,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5567,7 +5567,7 @@
             "code_type_diplome": "BEP",
             "date": "2007-01-15",
             "effectif_de_jeunes": 4835,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5637,7 +5637,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2008-01-15",
             "effectif_de_jeunes": 175,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5651,7 +5651,7 @@
             "code_type_diplome": "CAP",
             "date": "2008-01-15",
             "effectif_de_jeunes": 10833,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5665,7 +5665,7 @@
             "code_type_diplome": "ING",
             "date": "2009-01-15",
             "effectif_de_jeunes": 1212,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5679,7 +5679,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2009-01-15",
             "effectif_de_jeunes": 4500,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5693,7 +5693,7 @@
             "code_type_diplome": "TH2-K",
             "date": "2009-01-15",
             "effectif_de_jeunes": 25,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5707,7 +5707,7 @@
             "code_type_diplome": "TH2-N",
             "date": "2009-01-15",
             "effectif_de_jeunes": 61,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5735,7 +5735,7 @@
             "code_type_diplome": "BTS",
             "date": "2009-01-15",
             "effectif_de_jeunes": 5225,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5749,7 +5749,7 @@
             "code_type_diplome": "DIP3-CNAM",
             "date": "2009-01-15",
             "effectif_de_jeunes": 16,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5763,7 +5763,7 @@
             "code_type_diplome": "TH3-R",
             "date": "2009-01-15",
             "effectif_de_jeunes": 159,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5777,7 +5777,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2009-01-15",
             "effectif_de_jeunes": 31,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5791,7 +5791,7 @@
             "code_type_diplome": "MC",
             "date": "2009-01-15",
             "effectif_de_jeunes": 291,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5805,7 +5805,7 @@
             "code_type_diplome": "BEP",
             "date": "2009-01-15",
             "effectif_de_jeunes": 4360,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5819,7 +5819,7 @@
             "code_type_diplome": "MST",
             "date": "2010-01-15",
             "effectif_de_jeunes": 189,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5833,7 +5833,7 @@
             "code_type_diplome": "TH2-N",
             "date": "2010-01-15",
             "effectif_de_jeunes": 82,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5847,7 +5847,7 @@
             "code_type_diplome": "TH2-Q",
             "date": "2010-01-15",
             "effectif_de_jeunes": 34,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5861,7 +5861,7 @@
             "code_type_diplome": "DE JEPS",
             "date": "2010-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5875,7 +5875,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2010-01-15",
             "effectif_de_jeunes": 237,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5889,7 +5889,7 @@
             "code_type_diplome": "TH3-Q",
             "date": "2010-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5903,7 +5903,7 @@
             "code_type_diplome": "BP",
             "date": "2010-01-15",
             "effectif_de_jeunes": 2305,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5917,7 +5917,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2010-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5931,7 +5931,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2010-01-15",
             "effectif_de_jeunes": 46,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5945,7 +5945,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2011-01-15",
             "effectif_de_jeunes": 41,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5959,7 +5959,7 @@
             "code_type_diplome": "MASTER PRO",
             "date": "2011-01-15",
             "effectif_de_jeunes": 4980,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5973,7 +5973,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2011-01-15",
             "effectif_de_jeunes": 189,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -5987,7 +5987,7 @@
             "code_type_diplome": "TH1-X",
             "date": "2011-01-15",
             "effectif_de_jeunes": 83,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6001,7 +6001,7 @@
             "code_type_diplome": "DE JEPS",
             "date": "2011-01-15",
             "effectif_de_jeunes": 11,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6015,7 +6015,7 @@
             "code_type_diplome": "MC",
             "date": "2011-01-15",
             "effectif_de_jeunes": 201,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6043,7 +6043,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2011-01-15",
             "effectif_de_jeunes": 38,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6085,7 +6085,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2012-01-15",
             "effectif_de_jeunes": 17,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6099,7 +6099,7 @@
             "code_type_diplome": "DUT",
             "date": "2012-01-15",
             "effectif_de_jeunes": 1239,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6127,7 +6127,7 @@
             "code_type_diplome": "TH1-A",
             "date": "2013-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6155,7 +6155,7 @@
             "code_type_diplome": "TH2-A",
             "date": "2013-01-15",
             "effectif_de_jeunes": 22,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6169,7 +6169,7 @@
             "code_type_diplome": "TH2-U",
             "date": "2013-01-15",
             "effectif_de_jeunes": 19,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6183,7 +6183,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2013-01-15",
             "effectif_de_jeunes": 21,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6211,7 +6211,7 @@
             "code_type_diplome": "DUT",
             "date": "2013-01-15",
             "effectif_de_jeunes": 1213,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6239,7 +6239,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2013-01-15",
             "effectif_de_jeunes": 78,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6253,7 +6253,7 @@
             "code_type_diplome": "BPA5",
             "date": "2013-01-15",
             "effectif_de_jeunes": 76,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6267,7 +6267,7 @@
             "code_type_diplome": "CAPA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 260,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6295,7 +6295,7 @@
             "code_type_diplome": "MASTER PRO",
             "date": "2006-01-15",
             "effectif_de_jeunes": 1870,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6309,7 +6309,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2006-01-15",
             "effectif_de_jeunes": 117,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6351,7 +6351,7 @@
             "code_type_diplome": "MC",
             "date": "2006-01-15",
             "effectif_de_jeunes": 292,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6365,7 +6365,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2006-01-15",
             "effectif_de_jeunes": 73,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6379,7 +6379,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2006-01-15",
             "effectif_de_jeunes": 148,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6393,7 +6393,7 @@
             "code_type_diplome": "TH5-J",
             "date": "2006-01-15",
             "effectif_de_jeunes": 190,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6407,7 +6407,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2007-01-15",
             "effectif_de_jeunes": 138,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6421,7 +6421,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2007-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6435,7 +6435,7 @@
             "code_type_diplome": "MC",
             "date": "2007-01-15",
             "effectif_de_jeunes": 454,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6449,7 +6449,7 @@
             "code_type_diplome": "TH5-M",
             "date": "2007-01-15",
             "effectif_de_jeunes": 30,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6463,7 +6463,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2008-01-15",
             "effectif_de_jeunes": 243,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6477,7 +6477,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2008-01-15",
             "effectif_de_jeunes": 84,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6491,7 +6491,7 @@
             "code_type_diplome": "MST",
             "date": "2008-01-15",
             "effectif_de_jeunes": 166,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6505,7 +6505,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2008-01-15",
             "effectif_de_jeunes": 264,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6519,7 +6519,7 @@
             "code_type_diplome": "CSA NIV3",
             "date": "2008-01-15",
             "effectif_de_jeunes": 5,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6533,7 +6533,7 @@
             "code_type_diplome": "TH4-E",
             "date": "2008-01-15",
             "effectif_de_jeunes": 9,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6561,7 +6561,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2008-01-15",
             "effectif_de_jeunes": 18,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6589,7 +6589,7 @@
             "code_type_diplome": "MASTER PRO",
             "date": "2009-01-15",
             "effectif_de_jeunes": 3677,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6603,7 +6603,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2009-01-15",
             "effectif_de_jeunes": 242,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6631,7 +6631,7 @@
             "code_type_diplome": "MST",
             "date": "2009-01-15",
             "effectif_de_jeunes": 188,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6645,7 +6645,7 @@
             "code_type_diplome": "TH2-AG",
             "date": "2009-01-15",
             "effectif_de_jeunes": 20,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6687,7 +6687,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2010-01-15",
             "effectif_de_jeunes": 354,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6715,7 +6715,7 @@
             "code_type_diplome": "MBA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 19,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6729,7 +6729,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2010-01-15",
             "effectif_de_jeunes": 74,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6757,7 +6757,7 @@
             "code_type_diplome": "BTSA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 90,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6771,7 +6771,7 @@
             "code_type_diplome": "DEUST",
             "date": "2010-01-15",
             "effectif_de_jeunes": 53,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6785,7 +6785,7 @@
             "code_type_diplome": "BEPA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 103,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6799,7 +6799,7 @@
             "code_type_diplome": "CPA",
             "date": "2010-01-15",
             "effectif_de_jeunes": 1667,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6841,7 +6841,7 @@
             "code_type_diplome": "TH1-C",
             "date": "2011-01-15",
             "effectif_de_jeunes": 379,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6855,7 +6855,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2011-01-15",
             "effectif_de_jeunes": 24,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6883,7 +6883,7 @@
             "code_type_diplome": "TH2-C",
             "date": "2011-01-15",
             "effectif_de_jeunes": 476,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6911,7 +6911,7 @@
             "code_type_diplome": "TH2-X",
             "date": "2011-01-15",
             "effectif_de_jeunes": 380,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6925,7 +6925,7 @@
             "code_type_diplome": "TH3-T",
             "date": "2011-01-15",
             "effectif_de_jeunes": 18,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6939,7 +6939,7 @@
             "code_type_diplome": "TH3-C",
             "date": "2011-01-15",
             "effectif_de_jeunes": 336,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6953,7 +6953,7 @@
             "code_type_diplome": "BAC PRO AG",
             "date": "2011-01-15",
             "effectif_de_jeunes": 197,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6967,7 +6967,7 @@
             "code_type_diplome": "CAP",
             "date": "2011-01-15",
             "effectif_de_jeunes": 11058,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6981,7 +6981,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2012-01-15",
             "effectif_de_jeunes": 475,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -6995,7 +6995,7 @@
             "code_type_diplome": "DES JEPS",
             "date": "2012-01-15",
             "effectif_de_jeunes": 2,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7009,7 +7009,7 @@
             "code_type_diplome": "LICENCE PRO",
             "date": "2012-01-15",
             "effectif_de_jeunes": 5618,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7023,7 +7023,7 @@
             "code_type_diplome": "BTS",
             "date": "2012-01-15",
             "effectif_de_jeunes": 6693,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7037,7 +7037,7 @@
             "code_type_diplome": "BPA",
             "date": "2012-01-15",
             "effectif_de_jeunes": 78,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7051,7 +7051,7 @@
             "code_type_diplome": "BP JEPS",
             "date": "2012-01-15",
             "effectif_de_jeunes": 368,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7065,7 +7065,7 @@
             "code_type_diplome": "MC",
             "date": "2012-01-15",
             "effectif_de_jeunes": 239,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7079,7 +7079,7 @@
             "code_type_diplome": "TH4-N",
             "date": "2012-01-15",
             "effectif_de_jeunes": 32,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7135,7 +7135,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2013-01-15",
             "effectif_de_jeunes": 620,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7149,7 +7149,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2013-01-15",
             "effectif_de_jeunes": 623,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7191,7 +7191,7 @@
             "code_type_diplome": "BP",
             "date": "2013-01-15",
             "effectif_de_jeunes": 2146,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7205,7 +7205,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2013-01-15",
             "effectif_de_jeunes": 48,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7219,7 +7219,7 @@
             "code_type_diplome": "TH4-N",
             "date": "2013-01-15",
             "effectif_de_jeunes": 26,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7247,7 +7247,7 @@
             "code_type_diplome": "DIMA",
             "date": "2013-01-15",
             "effectif_de_jeunes": 1343,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7261,7 +7261,7 @@
             "code_type_diplome": "DIP GVM",
             "date": "2006-01-15",
             "effectif_de_jeunes": 4,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7289,7 +7289,7 @@
             "code_type_diplome": "CSA NIV4",
             "date": "2006-01-15",
             "effectif_de_jeunes": 11,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7303,7 +7303,7 @@
             "code_type_diplome": "BEP",
             "date": "2006-01-15",
             "effectif_de_jeunes": 4373,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7317,7 +7317,7 @@
             "code_type_diplome": "CAPA",
             "date": "2006-01-15",
             "effectif_de_jeunes": 294,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7331,7 +7331,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2007-01-15",
             "effectif_de_jeunes": 48,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7345,7 +7345,7 @@
             "code_type_diplome": "MST",
             "date": "2007-01-15",
             "effectif_de_jeunes": 129,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7359,7 +7359,7 @@
             "code_type_diplome": "TH2-J",
             "date": "2007-01-15",
             "effectif_de_jeunes": 1,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7373,7 +7373,7 @@
             "code_type_diplome": "TH2-K",
             "date": "2007-01-15",
             "effectif_de_jeunes": 25,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7387,7 +7387,7 @@
             "code_type_diplome": "BTS",
             "date": "2007-01-15",
             "effectif_de_jeunes": 4983,
-            "duree_alternance": 24
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7401,7 +7401,7 @@
             "code_type_diplome": "BMA",
             "date": "2007-01-15",
             "effectif_de_jeunes": 10,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7415,7 +7415,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2008-01-15",
             "effectif_de_jeunes": 179,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7429,7 +7429,7 @@
             "code_type_diplome": "LIC LMD",
             "date": "2008-01-15",
             "effectif_de_jeunes": 333,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7443,7 +7443,7 @@
             "code_type_diplome": "TH2-U",
             "date": "2008-01-15",
             "effectif_de_jeunes": 10,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7457,7 +7457,7 @@
             "code_type_diplome": "MC",
             "date": "2008-01-15",
             "effectif_de_jeunes": 274,
-            "duree_alternance": 24
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7471,7 +7471,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2008-01-15",
             "effectif_de_jeunes": 66,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7513,7 +7513,7 @@
             "code_type_diplome": "DIV-5",
             "date": "2008-01-15",
             "effectif_de_jeunes": 390,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7541,7 +7541,7 @@
             "code_type_diplome": "TH1-N",
             "date": "2009-01-15",
             "effectif_de_jeunes": 107,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7555,7 +7555,7 @@
             "code_type_diplome": "DIP2-CNAM",
             "date": "2009-01-15",
             "effectif_de_jeunes": 28,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7583,7 +7583,7 @@
             "code_type_diplome": "TH4-AG",
             "date": "2009-01-15",
             "effectif_de_jeunes": 95,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7597,7 +7597,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2009-01-15",
             "effectif_de_jeunes": 148,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7611,7 +7611,7 @@
             "code_type_diplome": "TH4-J",
             "date": "2009-01-15",
             "effectif_de_jeunes": 40,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7625,7 +7625,7 @@
             "code_type_diplome": "DIP1-CNAM",
             "date": "2010-01-15",
             "effectif_de_jeunes": 36,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7639,7 +7639,7 @@
             "code_type_diplome": "TH2-AG",
             "date": "2010-01-15",
             "effectif_de_jeunes": 29,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7653,7 +7653,7 @@
             "code_type_diplome": "TH4-C",
             "date": "2010-01-15",
             "effectif_de_jeunes": 128,
-            "duree_alternance": 36
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7667,7 +7667,7 @@
             "code_type_diplome": "TH4-M",
             "date": "2010-01-15",
             "effectif_de_jeunes": 79,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7681,7 +7681,7 @@
             "code_type_diplome": "TH4-T",
             "date": "2010-01-15",
             "effectif_de_jeunes": 12,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7695,7 +7695,7 @@
             "code_type_diplome": "CSA NIV5",
             "date": "2010-01-15",
             "effectif_de_jeunes": 30,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7709,7 +7709,7 @@
             "code_type_diplome": "DIV-5",
             "date": "2010-01-15",
             "effectif_de_jeunes": 535,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7723,7 +7723,7 @@
             "code_type_diplome": "DIV-1",
             "date": "2011-01-15",
             "effectif_de_jeunes": 421,
-            "duree_alternance": 24
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7737,7 +7737,7 @@
             "code_type_diplome": "TH1-A",
             "date": "2011-01-15",
             "effectif_de_jeunes": 6,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7751,7 +7751,7 @@
             "code_type_diplome": "TH1-U",
             "date": "2011-01-15",
             "effectif_de_jeunes": 7,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7779,7 +7779,7 @@
             "code_type_diplome": "TH2-AG",
             "date": "2011-01-15",
             "effectif_de_jeunes": 37,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7807,7 +7807,7 @@
             "code_type_diplome": "DIV-4",
             "date": "2011-01-15",
             "effectif_de_jeunes": 53,
-            "duree_alternance": 6
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7821,7 +7821,7 @@
             "code_type_diplome": "TH4-X",
             "date": "2011-01-15",
             "effectif_de_jeunes": 163,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7835,7 +7835,7 @@
             "code_type_diplome": "CAPA",
             "date": "2011-01-15",
             "effectif_de_jeunes": 281,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7849,7 +7849,7 @@
             "code_type_diplome": "DIP GVM",
             "date": "2012-01-15",
             "effectif_de_jeunes": 759,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7863,7 +7863,7 @@
             "code_type_diplome": "DIV-2",
             "date": "2012-01-15",
             "effectif_de_jeunes": 641,
-            "duree_alternance": 12
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7891,7 +7891,7 @@
             "code_type_diplome": "LICENCE",
             "date": "2012-01-15",
             "effectif_de_jeunes": 20,
-            "duree_alternance": 36
+            "duree_alternance": 6
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7905,7 +7905,7 @@
             "code_type_diplome": "TH2-U",
             "date": "2012-01-15",
             "effectif_de_jeunes": 44,
-            "duree_alternance": 12
+            "duree_alternance": 24
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7919,7 +7919,7 @@
             "code_type_diplome": "DIV-3",
             "date": "2012-01-15",
             "effectif_de_jeunes": 329,
-            "duree_alternance": 12
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7933,7 +7933,7 @@
             "code_type_diplome": "TH3-X",
             "date": "2012-01-15",
             "effectif_de_jeunes": 33,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7947,7 +7947,7 @@
             "code_type_diplome": "CAP",
             "date": "2012-01-15",
             "effectif_de_jeunes": 11133,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7961,7 +7961,7 @@
             "code_type_diplome": "DIP GM",
             "date": "2013-01-15",
             "effectif_de_jeunes": 191,
-            "duree_alternance": 6
+            "duree_alternance": 36
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -7975,7 +7975,7 @@
             "code_type_diplome": "BTS",
             "date": "2013-01-15",
             "effectif_de_jeunes": 7154,
-            "duree_alternance": 6
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     },
@@ -8003,7 +8003,7 @@
             "code_type_diplome": "BAC TECHNO",
             "date": "2013-01-15",
             "effectif_de_jeunes": 121,
-            "duree_alternance": 36
+            "duree_alternance": 12
         },
         "record_timestamp": "2014-08-13T22:00:30Z"
     }
