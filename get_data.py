@@ -13,8 +13,8 @@ def save_data_to_file(data, filename):
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 urls = [
-    "https://drive.google.com/uc?id=1V4rR4F1seaqc0T7aHup1tWPoLQJ6acN3",
-    "https://drive.google.com/uc?id=18qQVWj-UnGu6CeNYXmA4oBVUJZZxbS1j",
+    "https://drive.google.com/uc?id=1Xp-sXJjOEwmKEeTqzLiql6dGMEQizgzM",
+    "https://drive.google.com/uc?id=1fIVsA_vQUAHO5tYtbfJX5yG8sc8ITNCH",
     "https://drive.google.com/uc?id=18qQVWj-UnGu6CeNYXmA4oBVUJZZxbS1j"
 ]
 
