@@ -12,6 +12,7 @@ def charger_departements(fichier='departement.json'):
 
 departements = charger_departements()
 
+
 def lire_donnees_json():
     with open('data.json', 'r') as file:
         responses = json.load(file)
@@ -22,10 +23,14 @@ def lire_donnees_json():
             for job in response['peJobs']['results']:
                 if 'zipCode' in job['place']:
                     code_dep = job['place']['zipCode'][:2]
+                    # Exclure les départements commençant par 97
+                    if code_dep.startswith('97'):
+                        continue
                     nom_dep = departements.get(code_dep, 'Inconnu')
                     infos_departements.append({'Departement': f"{code_dep} - {nom_dep}"})
 
     return pd.DataFrame(infos_departements)
+
 
 df = lire_donnees_json()
 
