@@ -2,7 +2,7 @@ from dash import html, dcc
 
 def create_layout(app):
     return html.Div([
-        html.H1("Statistiques des Alternances", style={'textAlign': 'center'}),
+        html.H1("Nombre d'alternant par niveau d'étude pour chaque année", style={'textAlign': 'center'}),
         html.Div([
             html.Label("Sélectionnez une année :"),
             dcc.Dropdown(
@@ -11,6 +11,6 @@ def create_layout(app):
                 value=app.server.config['annees'][0],
                 clearable=False
             ),
-        ], style={'width': '48%', 'display': 'inline-block'}),
+        ], style={'width': '20%', 'margin': '0 auto'}),  # Modification ici pour centrer
         dcc.Graph(id='graphique-alternance')
     ], style={'padding': 50})
