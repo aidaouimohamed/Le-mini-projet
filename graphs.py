@@ -28,10 +28,23 @@ def generate_chart(df_alternance, annee=None):
                  color_discrete_sequence=custom_colors)
     return fig
 
+import plotly.express as px
+
 def create_bar_chart(df):
     fig = px.bar(df, x='nombre_de_moi', y='effectif_de_jeunes', 
                  title="Nombre d'Alternances par Plage de Durée")
-    fig.update_layout(bargap=0.001)
+    fig.update_layout(
+        title={
+            'text': "Nombre d'Alternances par Plage de Durée",
+            'y':0.9,
+            'x':0.5,
+            'xanchor': 'center',
+            'yanchor': 'top'
+        },
+        bargap=0.001,
+        width=1300,
+        height=500
+    )
     return fig
 
 
