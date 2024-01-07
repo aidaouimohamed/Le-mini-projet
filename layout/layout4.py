@@ -10,6 +10,10 @@ df = load_data()
 
 # Function to create the layout of the dashboard
 def create_layout():
+    departements_exclus = ['97', '04', '05', '09', '15', '95', '90', '28', '92', '48', '03']
+
+    filtered_departements = {code: name for code, name in departements.items() if code not in departements_exclus}
+
     return dbc.Container([
         # Row for the title of the dashboard
         dbc.Row([
@@ -25,7 +29,7 @@ def create_layout():
             dbc.Col([
                 dcc.Dropdown(
                     id='departement-dropdown',
-                    options=[{'label': name, 'value': code} for code, name in departements.items()],
+                    options=[{'label': name, 'value': code} for code, name in filtered_departements.items()],
                     value=None,
                     placeholder="Sélectionnez un département"
                 )
