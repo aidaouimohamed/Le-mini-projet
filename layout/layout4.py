@@ -18,7 +18,7 @@ def create_layout():
                 )
             ], width=4),
             dbc.Col([
-                dcc.Markdown('# Carte des Offres d\'Emploi par Département', style={'textAlign': 'center'})
+                dcc.Markdown('# Carte des Offres d\'alternance en France', style={'textAlign': 'center'})
             ], width=8)
         ]),
         dbc.Row([
