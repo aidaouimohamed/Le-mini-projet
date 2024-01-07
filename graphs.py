@@ -8,6 +8,12 @@ def create_bar_graph(df, min_offres):
     filtered_df_count = filtered_df_count[filtered_df_count['Nombre d\'Offres'] >= min_offres]
 
     fig = px.bar(filtered_df_count, x='Departement', y='Nombre d\'Offres', title='Nombre d\'Offres par Département')
+    
+    fig.update_layout(
+        width=1400, 
+        height=700  # Hauteur de l'histogramme
+    )
+    
     return fig
 
 # Fonction du fichier 2
