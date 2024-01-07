@@ -8,7 +8,17 @@ df = load_data()
 
 def create_layout():
     return dbc.Container([
+        # Row for the title
         dbc.Row([
+            dbc.Col([
+                dcc.Markdown('# Carte des Offres d\'alternance en France', style={'textAlign': 'center'})
+            ], width=12)
+        ]),
+        # Row for department selection (centered with spacers)
+        dbc.Row([
+            # Left spacer
+            dbc.Col(width=4),
+            # Dropdown
             dbc.Col([
                 dcc.Dropdown(
                     id='departement-dropdown',
@@ -17,10 +27,10 @@ def create_layout():
                     placeholder="Sélectionnez un département"
                 )
             ], width=4),
-            dbc.Col([
-                dcc.Markdown('# Carte des Offres d\'alternance en France', style={'textAlign': 'center'})
-            ], width=8)
+            # Right spacer
+            dbc.Col(width=4),
         ]),
+        # Row for the graph
         dbc.Row([
             dbc.Col([
                 dcc.Graph(
@@ -30,3 +40,4 @@ def create_layout():
             ], width=12)
         ])
     ])
+
