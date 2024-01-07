@@ -2,12 +2,13 @@ import json
 import pandas as pd
 import numpy as np
 
-
+# Function to load department names from a JSON file.
 def charger_departements(fichier='data_2.json'):
     with open(fichier, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return {dep['DEP']: dep['NCC'] for dep in data}
 
+# Function to read job data from a JSON file and map department codes to names.
 def lire_donnees_json():
     departements = charger_departements()
 
@@ -27,6 +28,7 @@ def lire_donnees_json():
 
     return pd.DataFrame(infos_departements)
 
+# Function to read data about alternance (apprenticeship) from a JSON file.
 def lire_donnees(fichier='data_1.json'):
     alternances = []
     with open(fichier, 'r', encoding='utf-8') as file:
@@ -40,6 +42,7 @@ def lire_donnees(fichier='data_1.json'):
             })
     return pd.DataFrame(alternances)
 
+# Function to read and process alternance data, focusing on duration and youth count.
 def lire_donnees_alternance(fichier='data_1.json'):
     with open(fichier, 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -54,6 +57,7 @@ def lire_donnees_alternance(fichier='data_1.json'):
 
     return pd.DataFrame(alternances)
 
+# Function to process and categorize alternance data by duration.
 def process_data():
     df_alternance = lire_donnees_alternance()
     df_alternance['nombre_de_moi'] = pd.cut(df_alternance['duree_alternance'], 
@@ -63,12 +67,13 @@ def process_data():
     df_nombre_de_moi_count = df_alternance.groupby('nombre_de_moi', observed=True)['effectif_de_jeunes'].sum().reset_index()
     return df_nombre_de_moi_count
 
-# Fonction pour ajouter un léger décalage aléatoire aux coordonnées
+# Function to add random small offsets to latitude and longitude for privacy reasons.
 def ajouter_decalage(df, colonnes=['latitude', 'longitude'], decalage_max=0.009):
     for col in colonnes:
         df[col] = df[col].apply(lambda x: x + np.random.uniform(-decalage_max, decalage_max))
     return df
 
+# Function to load job data, map department names, and add unique identifiers and random offsets.
 def load_data():
     departements = charger_departements()
 
