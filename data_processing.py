@@ -4,14 +4,14 @@ import numpy as np
 
 
 def charger_departements(fichier='data_2.json'):
-    with open(fichier, 'r') as file:
+    with open(fichier, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return {dep['DEP']: dep['NCC'] for dep in data}
 
 def lire_donnees_json():
     departements = charger_departements()
 
-    with open('data_0.json', 'r') as file:
+    with open('data_0.json', 'r', encoding='utf-8') as file:
         responses = json.load(file)
 
     infos_departements = []
@@ -29,7 +29,7 @@ def lire_donnees_json():
 
 def lire_donnees(fichier='data_1.json'):
     alternances = []
-    with open(fichier, 'r') as file:
+    with open(fichier, 'r', encoding='utf-8') as file:
         data = json.load(file)
         for record in data:
             fields = record['fields']
@@ -41,7 +41,7 @@ def lire_donnees(fichier='data_1.json'):
     return pd.DataFrame(alternances)
 
 def lire_donnees_alternance(fichier='data_1.json'):
-    with open(fichier, 'r') as file:
+    with open(fichier, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     alternances = []
@@ -72,7 +72,7 @@ def ajouter_decalage(df, colonnes=['latitude', 'longitude'], decalage_max=0.009)
 def load_data():
     departements = charger_departements()
 
-    with open('data_0.json', 'r') as file:
+    with open('data_0.json', 'r', encoding='utf-8') as file:
         responses = json.load(file)
 
     infos_departements = []
